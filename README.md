@@ -23,8 +23,7 @@
 ```yaml
 name: Wasima Akhter
 role: Junior Flutter Developer
-company: IT Company
-experience: Since Jan 2026
+experience: 1 year
 published_apps: 5+
 specialization:
   - Flutter Development
