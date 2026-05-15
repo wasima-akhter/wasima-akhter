@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=Flutter+Developer+%F0%9F%92%99;Building+Production+Ready+Apps+%F0%9F%9A%80;Real-Time+Apps+%7C+Agora+%7C+Socket.IO;Stripe+%7C+RevenueCat+%7C+Google+Maps;5%2B+Published+Mobile+Applications+%E2%9C%85;Clean+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=Flutter+Developer+💙;Building+Production+Ready+Apps+🚀;Real-Time+Apps+%7C+Agora+%7C+Socket.IO;Stripe+%7C+RevenueCat+%7C+Google+Maps;5%2B+Published+Mobile+Applications+✅;Clean+Architecture+Enthusiast+🏗️"/>
 
 </div>
 
@@ -51,7 +51,7 @@ currently_learning:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Socket.IO-111111?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-111111?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![RevenueCat](https://img.shields.io/badge/RevenueCat-FF6B6B?style=for-the-badge)
 ![GoogleMaps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
@@ -79,19 +79,119 @@ currently_learning:
 
 ---
 
+# 🧠 Development Principles
+
+<div align="center">
+
+| Principle | Description |
+|---|---|
+| 🏗️ Clean Code | Writing maintainable and scalable code |
+| 📦 Modular Structure | Organized feature-based architecture |
+| ⚡ Performance First | Optimized UI rendering & API handling |
+| 🔄 Reusability | Shared widgets & reusable components |
+| 🧪 Maintainability | Easy-to-update codebase structure |
+
+</div>
+
+---
+
 # 📌 Featured Projects
 
 <div align="center">
 
-| Project | Description |
-|---|---|
-| 🔴 **Live Streaming App** | Agora-powered live streaming with audience interaction & real-time communication |
-| 🛒 **E-Commerce Platform** | B2C shopping application with Stripe payment system |
-| 💬 **Messaging Application** | Socket.IO powered real-time messaging system |
-| 📍 **Maps & Tracking App** | Google Maps integration with geolocation services |
-| 💎 **Subscription Platform** | RevenueCat-based subscription & premium access management |
+| Project | Description | Tech |
+|---|---|---|
+| 🔴 **Live Streaming App** | Agora-powered streaming with real-time communication | Flutter · Agora · Socket.IO |
+| 🛒 **E-Commerce Platform** | B2C shopping app with Stripe payment system | Flutter · Stripe · Firebase |
+| 💬 **Messaging Application** | Real-time messaging & notifications | Flutter · Socket.IO |
+| 📍 **Maps & Tracking App** | Google Maps integration with geolocation services | Flutter · Google Maps |
+| 💎 **Subscription Platform** | RevenueCat premium subscription management | Flutter · RevenueCat |
 
 </div>
+
+---
+
+# 📱 App Store Publishing Experience
+
+<div align="center">
+
+| Platform | Experience |
+|---|---|
+| 🤖 Google Play Store | App signing · Publishing · Releases |
+| 🍎 Apple App Store | iOS deployment · TestFlight · App submission |
+| 🚀 CI/CD Basics | Build generation & release workflow |
+| 🔐 Release Management | Environment configs & production builds |
+
+</div>
+
+---
+
+# 📂 Highlighted Repositories
+
+<div align="center">
+
+| Repository | Description |
+|---|---|
+| 🚀 `flutter-live-streaming-app` | Real-time live streaming application |
+| 💬 `flutter-chat-app` | Socket.IO powered messaging system |
+| 🛒 `flutter-ecommerce-app` | B2C ecommerce mobile app |
+| 📍 `flutter-google-maps-app` | Maps & geolocation implementation |
+| 💎 `flutter-subscription-app` | RevenueCat subscription handling |
+
+</div>
+
+---
+
+# 📸 Project Screenshots
+
+<div align="center">
+
+## 🔴 Live Streaming App
+
+<img src="YOUR_SCREENSHOT_LINK" width="260"/>
+<img src="YOUR_SCREENSHOT_LINK" width="260"/>
+
+<br/><br/>
+
+## 🛒 Ecommerce App
+
+<img src="YOUR_SCREENSHOT_LINK" width="260"/>
+<img src="YOUR_SCREENSHOT_LINK" width="260"/>
+
+</div>
+
+---
+
+# 🎥 App Demo GIFs
+
+<div align="center">
+
+## 📱 Live Demo
+
+<img src="YOUR_GIF_LINK" width="280"/>
+
+</div>
+
+---
+
+# 🏗️ Architecture Overview
+
+```txt
+lib/
+│
+├── core/
+├── services/
+├── features/
+│   ├── auth/
+│   ├── home/
+│   ├── chat/
+│   └── streaming/
+│
+├── shared/
+├── models/
+├── repositories/
+└── main.dart
+```
 
 ---
 
@@ -151,17 +251,35 @@ currently_learning:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/wasima-akhter">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:akhterestywasima@gmail.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
+<a href="YOUR_TWITTER_URL">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📬 Open For
+
+<div align="center">
+
+✅ Flutter Opportunities  
+✅ Remote Work  
+✅ Freelance Projects  
+✅ Open Source Collaboration  
+✅ Mobile App Development  
 
 </div>
 
