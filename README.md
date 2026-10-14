@@ -251,21 +251,21 @@ lib/
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/wasima-akhter">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:wasimaesty@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<!-- <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+</a> -->
 
-<a href="YOUR_TWITTER_URL">
+<!-- <a href="YOUR_TWITTER_URL">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
+</a> -->
 
 </div>
 
